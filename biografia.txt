@@ -1,0 +1,6 @@
+Este es un archivo creado con nano
+
+Mi nombre es Jeferson Oyola Garcia
+soy Ingeniero Mecatronico
+
+v1.0
